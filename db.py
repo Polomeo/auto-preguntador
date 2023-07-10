@@ -93,5 +93,5 @@ class Database:
 
 
 # testing
-pruebas_db = Database('preguntas_pruebas.db')
-print(pruebas_db.obtener_temas('Traumato'))
+# pruebas_db = Database('preguntas_pruebas.db')
+# print(pruebas_db.obtener_temas('Traumato'))
